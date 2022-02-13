@@ -1,0 +1,32 @@
+.ServicesContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.ServicesCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 80px;
+}
+
+.servicesText{
+    display: flex;
+    justify-content: center;
+}
+
+.servicesEnd{
+    display: flex;
+    justify-content: center;
+}
+
+.textServices{
+    font-size: 50px;
+    color: rgb(83, 128, 204);
+}
+
+.End{
+    display: flex;
+    justify-content: end;
+}

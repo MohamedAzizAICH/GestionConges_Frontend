@@ -1,0 +1,17 @@
+.HomePageContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 250px;
+}
+
+.HomeContent{
+    margin: 32px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.text{
+    font-size: 50px;
+}

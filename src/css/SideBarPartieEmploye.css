@@ -1,0 +1,19 @@
+.SidebarEmploye{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    gap: 250px;
+    padding: 32px;
+    border-right: thick double #5380cc;
+    
+}
+
+
+.btn{
+    width: max-content;
+}
+
+.EmployeIcon{
+    width: 100px;
+    
+}

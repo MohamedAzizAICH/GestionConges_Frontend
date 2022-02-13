@@ -1,0 +1,12 @@
+.DemanderCongéContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.ContainerPartie2{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    padding: 16px;
+}

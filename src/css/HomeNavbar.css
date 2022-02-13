@@ -1,0 +1,17 @@
+.Navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 16px;
+}
+
+
+.linkNav{
+    text-decoration: none;
+    color: rgb(83, 128, 204);
+}
+
+.linkNavBtn{
+    text-decoration: none;
+    color: white;
+}
